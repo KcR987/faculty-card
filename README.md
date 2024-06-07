@@ -2,19 +2,6 @@
 
 This project provides a reusable React component for displaying faculty cards. Each card contains an image, name, title, and curriculum topics for a faculty member.
 
-## Project Structure
-
-```
-my-app/
-├── src/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── FacultyCard.jsx
-│   ├── FacultyCard.css
-│   └── index.js
-└── package.json
-```
-
 ## Prerequisites
 
 - Node.js (version 14 or higher)
