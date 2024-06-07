@@ -12,8 +12,8 @@ This project provides a reusable React component for displaying faculty cards. E
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/faculty-card-react.git
-   cd faculty-card-react
+   git clone https://github.com/KcR987/faculty-card.git
+   cd faculty-card
    ```
 
 2. **Install dependencies**:
